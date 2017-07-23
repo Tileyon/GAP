@@ -1,6 +1,6 @@
-Project Name:   UniPaGe
+Project Name:   GAP
 
-Purpose:        Adaptable Graphic User Interface for Python
+Purpose:        Graphics Agnostic Python
 
 Author:         Ti Leyon
 
