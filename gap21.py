@@ -897,7 +897,7 @@ if __name__ == '__main__':
         (unilabel,(235, 50, 100, 20, 'Current File')),
 
         (uniframe,(570, 5, 220,65 ,(0,0,0))),
-        (unitext,(575, 10, 210, 35, 'Please read gapinfo.txt')),
+        (unitext,(575, 10, 210, 35, 'Please read gapinfo.png')),
         (unilabel,(575, 50, 100, 20, 'Feedback')),
         ]
 
