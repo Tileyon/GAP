@@ -7,3 +7,8 @@ gap.py
 gap12.py
 
 * Update that reflects corrections of bugs in the UniPAGe module discovered during intensive testing of ```GAP```
+
+gap21.py
+
+* Introduce the ability to save and load Unipage files created by the script. The name of these files can now be set by the user.
+* Ability to modify sizes of components by dragging with mouse or finger.
