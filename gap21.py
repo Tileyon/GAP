@@ -64,7 +64,7 @@ class unipage(object):
                     else:
                         ss1 -= 1
                 ss2 = (ss1 / 4) * 3
-                title_bar_height = int(ss3 / 600 * 50)
+                title_bar_height = int(ss3 / 600 * 90)
                 if ss2 > ss3 - title_bar_height:
                     ss2 = ss3 - title_bar_height
                     notoptimal = True
